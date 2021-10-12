@@ -1,0 +1,74 @@
+{
+    "name": "flutter-extension-pack",
+    "displayName": "Complete Flutter Extension Pack",
+    "description": "Complete set of extensions and recommended theme for apps development with Flutter Framework.",
+    "version": "0.0.1",
+    "publisher": "Prodam",
+    "engines": {
+        "vscode": "^1.61.0"
+    }, 
+    "icon": "flutter.png",
+    "keywords": [
+        "flutter",
+        "dart",
+        "android",
+        "ios",
+        "kotlin"
+    ],
+    "repository": {
+        "url": "https://github.com/vruggeri/FlutterExtensionPacks"
+    },
+    "homepage": "https://github.com/vruggeri/FlutterExtensionPacks",
+    "bugs": {
+        "url": "https://github.com/vruggeri/FlutterExtensionPacks/issues"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "hnw.vscode-auto-open-markdown-preview",
+        "Nash.awesome-flutter-snippets",
+        "aaron-bond.better-comments",
+        "FelixAngelov.bloc",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "ericadamski.carbon-now-sh",
+        "wmaurer.change-case",
+        "Dart-Code.dart-code",
+        "EditorConfig.EditorConfig",
+        "usernamehw.errorlens",
+        "Dart-Code.flutter",
+        "gornivv.vscode-flutter-files",
+        "aksharpatel47.vscode-flutter-helper",
+        "marcelovelasquez.flutter-tree",
+        "alexisvt.flutter-snippets",
+        "rubbersheep.gi",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "mhutchie.git-graph",
+        "GitHub.vscode-pull-request-github",
+        "vincaslt.highlight-matching-tag",
+        "oderwat.indent-rainbow",
+        "wmaurer.vscode-jumpy",
+        "adpyke.codesnap",
+        "MS-vsliveshare.vsliveshare",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "DavidAnson.vscode-markdownlint",
+        "PKief.material-icon-theme",
+        "GulajavaMinistudio.mayukaithemevsc",
+        "metaseed.metago",
+        "slevesque.vscode-multiclip",
+        "pnp.polacode",
+        "jeroen-meijer.pubspec-assist",
+        "everettjf.pubspec-dependency-search",
+        "humao.rest-client",
+        "Shan.code-settings-sync",
+        "shardulm94.trailing-spaces",
+        "wayou.vscode-todo-highlight",
+        "TzachOvadia.todo-list",
+        "fabiospampinato.vscode-todo-plus",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "esskar.vscode-flutter-i18n-json",
+        "deerawan.vscode-faker"
+    ]
+}
